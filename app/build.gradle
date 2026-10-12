@@ -1,0 +1,3 @@
+plugins { id 'com.android.application' }
+android { namespace 'br.com.diadesorte.campeao'; compileSdk 35
+ defaultConfig { applicationId 'br.com.diadesorte.campeao'; minSdk 23; targetSdk 28; versionCode 6; versionName '6.0' } }
